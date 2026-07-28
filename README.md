@@ -43,7 +43,7 @@ This skill cites eight people whose public writing, podcasts, and interviews sha
 
 **This project is not affiliated with, endorsed by, or built in partnership with any of them.** It's my own distillation of what I've learned from their blogs, books, podcasts, and interviews — linked back to the original sources in `references.md` so you can go straight to their work rather than take my paraphrase of it as the final word.
 
-If their thinking resonates, follow them directly for more:
+If their thinking resonates, follow them directly for more info!
 
 - [Cat Wu](https://www.linkedin.com/in/cat-wu/) — Head of Product, Claude Code and Cowork at Anthropic
 - [Claire Vo](https://www.linkedin.com/in/clairevo/) — CPO at LaunchDarkly, founder of ChatPRD
@@ -53,7 +53,3 @@ If their thinking resonates, follow them directly for more:
 - [Julie Zhuo](https://www.linkedin.com/in/julie-zhuo/) — former VP Product Design at Facebook, author of *The Making of a Manager*
 - [Lenny Rachitsky](https://www.linkedin.com/in/lennyrachitsky/) — writer, advisor, former Head of Supply Growth at Airbnb
 - [Elena Verna](https://www.linkedin.com/in/elenaverna) — Head of Growth at Lovable, former growth leader at Dropbox, SurveyMonkey, Miro, Amplitude
-
-## License
-
-*(Add your preferred license here — MIT is the common default for a repo like this if you want it freely reusable.)*
